@@ -1,6 +1,6 @@
 # Exercise 5 : More Variables and Printing
 
-# Now we will use something called a "format string." Every time you put **"**
+# Now we will use something called a "format string." Every time you put ** " **
 #  (double-quotes) around a piece of text you have been making a *string*. A string
 #  is how you make something that your program might give to a human. You print
 #  strings, save strings to files, send string to web servers, and many other things.
